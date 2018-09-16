@@ -1,0 +1,21 @@
+{
+    "name": "lordrhodos/json-orm",
+    "description": "ORM layer using plain json files as datastructure",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patrick Rodacker",
+            "email": "dev@rodacker.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.2",
+        "league/flysystem": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
